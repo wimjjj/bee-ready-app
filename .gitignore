@@ -1,2 +1,4 @@
 app/*.js
 *.js.map
+/node_modules
+/typings
